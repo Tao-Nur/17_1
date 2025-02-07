@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<!-- служебная часть -->
+
+<head>
+  <!-- заголовок страницы -->
+  <title>Пойму ли я построение кода?</title>
+  <!-- настраиваем служебную информацию для браузеров -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <!-- задаём CSS-стили прямо здесь же, чтобы всё было в одном файле -->
+  <style type="text/css">
+    img {
+      max-width: 100%;
+    }
+  </style>
+  <!-- закрываем служебную часть страницы -->
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>Загрузка понимания</h1>
+        <style type="text/css">
+        
+    img {
+      max-width: 100%;
+    }
+  </style>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-sm-12 col-md-4 col-lg-2 col-xl-2">
+        <img src="https://media.istockphoto.com/id/1364253107/ru/%D1%84%D0%BE%D1%82%D0%BE/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0-%D0%B8-%D0%BA%D0%BE%D1%88%D0%BA%D0%B0-%D0%BA%D0%B0%D0%BA-%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B5-%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F-%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8F%D1%89%D0%B8%D0%B5-%D0%B2-%D0%BE%D0%BA%D0%BD%D0%BE-%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B5.jpg?s=612x612&w=0&k=20&c=p90NAeOBL2EcMelWVIJiafS1XUwj5V0h01-bH4bRg4s=">
+      </div>
+      <div class="col-12 col-sm-12 col-md-4 col-lg-8 col-xl-8">
+        <img src="https://media.istockphoto.com/id/1325997570/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B1%D0%B5%D0%BD%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F-%D0%BA%D0%BE%D1%88%D0%BA%D0%B0-%D0%BB%D0%B5%D0%B6%D0%B8%D1%82-%D0%BD%D0%B0-%D0%B4%D0%B8%D0%B2%D0%B0%D0%BD%D0%B5-%D0%B8-%D1%83%D0%BB%D1%8B%D0%B1%D0%B0%D0%B5%D1%82%D1%81%D1%8F.jpg?s=2048x2048&w=is&k=20&c=HfMWeQEkCZ4dh-Fo0N9F1P4KmGBPgIkeaoKUipKqiWE=">
+      </div>
+      <div class="col-12 col-sm-12 col-md-4 col-lg-2 col-xl-2">
+        <img src="https://media.istockphoto.com/id/992637094/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B8%D0%B9-%D0%BA%D0%BE%D1%82-%D0%B2%D0%BE%D0%BB%D0%BE%D1%81-%D0%B8-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9-%D1%80%D0%B5%D1%82%D1%80%D0%B8%D0%B2%D0%B5%D1%80.jpg?s=2048x2048&w=is&k=20&c=WwLmccDvMxJKi9iyX_4NhII83wgMbnPxhR44GeBp4Zw=">
+      </div>
+    </div>
+  </div>
+  
+</body>
+<!-- конец всей страницы -->
+
+</html>
